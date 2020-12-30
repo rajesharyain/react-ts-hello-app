@@ -1,3 +1,7 @@
-# react-ts-san2tj
+clone
+  git clone
+install
+  npm install
+Start server
+  npm start
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-san2tj)
